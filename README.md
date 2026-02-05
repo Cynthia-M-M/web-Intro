@@ -23,11 +23,7 @@ The project consists of a single HTML file and associated image assets:
 ├── balloon.jpg     # Image asset used in the project
 ├── bird.jpg        # Image asset used in the project
 └── README.md       # Project documentation
-Here is the rest of the **Web Intro** README. I have added the **How to Run**, **Features**, and **License** sections to wrap it up professionally.
 
-### **Copy this block and paste it at the end of your file:**
-
-```markdown
 ---
 
 ## 🚀 How to Run the Project
